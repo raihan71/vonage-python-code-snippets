@@ -16,3 +16,4 @@ shellescape==3.4.1
 six==1.10.0
 Werkzeug==0.15.3
 python-dotenv==0.7.1
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
